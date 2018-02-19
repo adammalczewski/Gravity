@@ -1,0 +1,11 @@
+#include "Resources.h"
+          
+BM_WALL BITMAP "wall.bmp"
+BM_BUBBLE1 BITMAP "blue bubble 1.bmp"
+BM_BUBBLE2 BITMAP "blue bubble 2.bmp"
+BM_BUBBLE3 BITMAP "blue bubble 3.bmp"
+BM_BUBBLE4 BITMAP "blue bubble 4.bmp"
+BM_BUBBLE5 BITMAP "blue bubble 5.bmp"
+BM_BUBBLE6 BITMAP "blue bubble 6.bmp"
+BM_STARCRAFT BITMAP "starcraft.bmp"                     
+              
